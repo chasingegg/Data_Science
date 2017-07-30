@@ -1,2 +1,2 @@
 # Data_Science  
-an interesting repo all about data science course and practices related to data
+an interesting repo all about data science course and some toy practices related to data
